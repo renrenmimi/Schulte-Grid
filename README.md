@@ -5,6 +5,8 @@
 Numbers scattered across a grid. Find them in order, as fast as you can, moving your eyes
 instead of your head. A standard drill for attention span and peripheral vision.
 
+![Attention training on a numbered grid](docs/screenshot.jpg)
+
 ## Features
 
 - **Adjustable difficulty** — grid size scales with you
