@@ -1,4 +1,4 @@
-# Schulte Grid 🔢
+# Schulte Grid
 
 **▶ [Train now](https://renrenmimi.github.io/Schulte-Grid/)** — runs in your browser, nothing to install.
 
