@@ -15,4 +15,4 @@ instead of your head. A standard drill for attention span and peripheral vision.
 
 ## Tech
 
-Single-file HTML5 app. No build step, no dependencies.
+One `index.html` file.
