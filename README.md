@@ -2,8 +2,8 @@
 
 **▶ [Train now](https://renrenmimi.github.io/Schulte-Grid/)** — runs in your browser, nothing to install.
 
-Numbers scattered across a grid. Find them in order, as fast as you can, moving your eyes
-instead of your head. A standard drill for attention span and peripheral vision.
+Numbers are scattered across a grid and selected in order as quickly as possible. The
+exercise focuses on visual scanning and sustained attention.
 
 ![Attention training on a numbered grid](docs/screenshot.jpg)
 
